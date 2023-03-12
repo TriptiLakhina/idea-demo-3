@@ -3,6 +3,8 @@ public class IdeaDemo3 {
         System.out.println("ideaDemo3");
         System.out.println("Hello commit");
         System.out.println("commit -3");
+        System.out.println("commit 4");
+
     }
 
 }
